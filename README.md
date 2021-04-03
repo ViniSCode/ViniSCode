@@ -8,7 +8,7 @@ Passionate about knowledge, solving problems and facing new challenges
 📘 I'm a  Front End student 
 📕 Analysis and Systems Development - Uninter
 
-		### "A recompensa do estudo é a compreensão."
+### "A recompensa do estudo é a compreensão."
 
 #### ABOUT ME
 - 📍 From Tuparendi -- Rio Grande do sul - RS 
