@@ -12,7 +12,7 @@ Passionate about knowledge, solving problems and facing new challenges
 
 #### ABOUT ME
 - 📍 From Tuparendi -- Rio Grande do sul - RS 
-- 💻Sharing my Front End joutney at [rodriguesvini.dev](https://instagram.com/rodriguesvini.dev)
+- 💻Sharing my Front End journey at [rodriguesvini.dev](https://instagram.com/rodriguesvini.dev)
 - 📖 I’m currently learning: 
 		-Html, CSS, JavaScript, Python
 		-Google IT support - coursera
