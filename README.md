@@ -27,4 +27,4 @@ Passionate about knowledge, solving problems and facing new challenges
 
 <img src="https://github-readme-stats.vercel.app/api?username=viniScode&&show_icons=true&title_color=993399&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/viniScode/blob/output/github-contribution-grid-snake.svg)
