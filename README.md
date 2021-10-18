@@ -2,23 +2,22 @@
 
 ## HELLO 👋
 
-I'm **Vinícius Rodrigues**, I'm from Brazil 
+I'm **Vinícius Rodrigues**
 Passionate about knowledge, solving problems and facing new challenges
 
-📘 I'm a  Front End student 
-📕 I'm a Analysis and Systems Development student at Uninter
+📘 Web Development student 
+📕 Analysis and Systems Development student at Uninter
 
 ### "A recompensa do estudo é a compreensão."
 
 #### ABOUT ME
--  📍 From Tuparendi -- Rio Grande do sul - RS 
-- 💻 Sharing my Front End journey at [rodriguesvini.dev](https://instagram.com/rodriguesvini.dev)
+-  📍 From Tuparendi -- Rio Grande do sul - Brazil
+- 💻 Sharing my Web Development journey at [rodriguesvini.dev](https://instagram.com/rodriguesvini.dev)
 - 📖 I’m currently learning: 
-		-JavaScript, Node.JS
+		-ReactJS 	
+		-Node.JS
 		-Google IT support - coursera
 		-English, CS50 Edx - Harvard
-
-
 
 ### How to reach me: 👇 
 
