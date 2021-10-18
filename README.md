@@ -2,7 +2,7 @@
 
 ## HELLO 👋
 
-I'm **Vinícius Rodrigues**
+I'm **Vinícius Rodrigues** </br>
 Passionate about knowledge, solving problems and facing new challenges
 
 📘 Web Development student 
