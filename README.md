@@ -9,7 +9,7 @@ Passionate about knowledge, solving problems and facing new challenges
 ### "A recompensa do estudo é a compreensão."
 
 #### ABOUT ME
--  📍 From Tuparendi -- Rio Grande do sul - Brazil
+-  📍 From Tuparendi, Rio Grande do sul, Brazil
 - 💻 Sharing my Web Development journey at [rodriguesvini.dev](https://instagram.com/rodriguesvini.dev)
 - 📖 I’m currently learning: ReactJS, TypeScript, CS50x
 
