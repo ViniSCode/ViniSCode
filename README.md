@@ -4,6 +4,7 @@
 Passionate about knowledge, solving problems and facing new challenges
 
 📘 Front End (React.js/Next.js, Typescript)
+
 📕 Analysis and Systems Development student at Uninter
 
 ### TECHNICAL SKILLS
