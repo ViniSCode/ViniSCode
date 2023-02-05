@@ -2,16 +2,13 @@
 
 ## HELLO 👋
 Passionate about knowledge, solving problems and facing new challenges
-
-📘 Web Development student 
+📘 Front End (React.js/Next.js, Typescript)
 📕 Analysis and Systems Development student at Uninter
 
 ### TECHNICAL SKILLS
 - Proficient in React.js, Next.js, TypeScript, tailwindcss, Headless CMS and JAMstack architecture
 - Experience in building RESTful APIs and integrating with third-party services
 - Continuously exploring and learning new technologies to improve my skills and knowledge.
-
-### "A recompensa do estudo é a compreensão."
 
 #### ABOUT ME
 -  📍 From Tuparendi, Rio Grande do sul, Brazil
