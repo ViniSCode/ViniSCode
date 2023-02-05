@@ -6,12 +6,16 @@ Passionate about knowledge, solving problems and facing new challenges
 📘 Web Development student 
 📕 Analysis and Systems Development student at Uninter
 
+### TECHNICAL SKILLS
+- Proficient in React.js, Next.js, TypeScript, tailwindcss, Headless CMS and JAMstack architecture
+- Experience in building RESTful APIs and integrating with third-party services
+- Continuously exploring and learning new technologies to improve my skills and knowledge.
+
 ### "A recompensa do estudo é a compreensão."
 
 #### ABOUT ME
 -  📍 From Tuparendi, Rio Grande do sul, Brazil
 - 💻 Sharing my Web Development journey at [rodriguesvini.dev](https://instagram.com/rodriguesvini.dev)
-- 📖 I’m currently learning: ReactJS, TypeScript, CS50x, System Analysis and Development at UNINTER.
 
 ### How to reach me: 👇 
 
