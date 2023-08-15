@@ -3,9 +3,9 @@
 
 
 
+
 ## 💻 Front-End Developer | Technology Enthusiast
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniscode&" alt="viniscode" /></p>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=ViniSCode&&show_icons=true&title_color=993399&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/> --> 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=viniscode&theme=dark&hide_border=true&border_radius=12&exclude_days=Sun%2CSat&fire=40EBEB&ring=40EBEB&currStreakLabel=40EBEB)](https://git.io/streak-stats)
 
 ### Hi there! 👋  
 - I'm Vinícius, a passionate Front-End Developer with over 2 years of experience. I hold a degree in Systems Analysis and Development and thrive on crafting captivating web experiences using cutting-edge technologies. My goal is to contribute to the creation of dynamic and impactful websites that engage users.
