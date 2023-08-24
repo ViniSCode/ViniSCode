@@ -16,7 +16,7 @@
 
 ### Education
 
-- META Front End Developer Professional Certificate (Expected: January 2023)
+- META Front End Developer Professional Certificate (Expected: December 2023)
 - Technologist in Systems Analysis and Development, UNINTER (July 2020 - December 2022)
 - Introduction To Computer Science CS50, Harvard University (May 2022 - December 2022)
 - Technical Support Fundamentals, Google (March 2021 - October 2021)
