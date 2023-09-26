@@ -5,7 +5,7 @@
 
 
 ## 💻 Front-End Developer | Technology Enthusiast
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniscode&layout=pie)](https://github.com/viniscode/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniscode&layout=pie)
 ### Hi there! 👋  
 - I'm Vinícius, a passionate Front-End Developer with over 2 years of experience. I hold a degree in Systems Analysis and Development and thrive on crafting captivating web experiences using cutting-edge technologies. My goal is to contribute to the creation of dynamic and impactful websites that engage users.
 
