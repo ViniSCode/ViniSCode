@@ -5,6 +5,7 @@
 
 
 ## 💻 Front-End Developer | Technology Enthusiast
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniscode\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&rank_icon=github&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniscode&layout=pie)
 ### Hi there! 👋  
 - I'm Vinícius, a passionate Front-End Developer with over 2 years of experience. I hold a degree in Systems Analysis and Development and thrive on crafting captivating web experiences using cutting-edge technologies. My goal is to contribute to the creation of dynamic and impactful websites that engage users.
