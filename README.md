@@ -7,7 +7,6 @@
 ## 💻 Front-End Developer | Technology Enthusiast
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniscode\&rank_icon=percentile&theme=radical&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniscode&theme=radical)
 ### Hi there! 👋  
 - I'm Vinícius, a passionate Front-End Developer with over 2 years of experience. I hold a degree in Systems Analysis and Development and thrive on crafting captivating web experiences using cutting-edge technologies. My goal is to contribute to the creation of dynamic and impactful websites that engage users.
 
@@ -15,6 +14,7 @@
 - <strong>Frontend Development:</strong> Next.js, React.js, TypeScript, GraphQL (URQL, Apollo), Headless CMS (Hygraph CMS, Prismic), Firebase, Context API, REST APIs
 - <strong>Styling and UI:</strong> Sass, Styled-Components, Chakra UI, Tailwind CSS
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniscode&theme=radical)
 
 ### Education
 
