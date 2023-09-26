@@ -5,7 +5,7 @@
 
 
 ## 💻 Front-End Developer | Technology Enthusiast
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniscode\&rank_icon=percentile&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniscode\&rank_icon=percentile&theme=radical&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniscode&theme=radical)
 ### Hi there! 👋  
