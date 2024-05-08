@@ -15,10 +15,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniscode&theme=radical)
 
 ### Education
-- Google IT Support, Google, Coursera (Expected: December 2023)
-- META Front End Developer, Meta, Coursera (January 2023 - September 2023)
-- Introduction To Computer Science CS50, Harvard University, EDX (May 2022 - December 2022)
-- Technologist in Systems Analysis and Development, UNINTER (July 2020 - December 2022)
+- BSc • Computer Science • (Expected 2027)
+- Google IT Support • Google • Coursera • (Expected: july 2024)
+- META Front End Developer • Meta • Coursera • (January 2023 - September 2023)
+- Introduction To Computer Science CS50 • Harvard University • EDX • (May 2022 - December 2022)
+- Technologist in Systems Analysis and Development • UNINTER • (July 2020 - December 2022)
 
 ###  About ME
 -  📍 From Tuparendi, Rio Grande do sul, Brazil
