@@ -22,8 +22,8 @@
 - Technologist in Systems Analysis and Development • UNINTER • (July 2020 - December 2022)
 
 ###  About ME
--  📍 From Tuparendi, Rio Grande do sul, Brazil
-- 💻 Sharing my Web Development journey at [rodriguesvini.dev](https://instagram.com/rodriguesvini.dev)
+-  📍 From Rio Grande do sul, Brazil
+- 💻 Sharing my Web Development journey at [vinicius-rodrigues-5897831b8](https://www.linkedin.com/in/vinicius-rodrigues-5897831b8/)
 
 ### How to reach me: 👇 
 - 📧 Email: viniciuskauarodriguesdev@gmail.com
