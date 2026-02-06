@@ -6,7 +6,7 @@
 
 ## 💻 Front-End Developer | Technology Enthusiast
 ### Hi there! 👋  
-- I'm Vinícius, a passionate Front-End Developer with over 2 years of experience. I hold a degree in Systems Analysis and Development and thrive on crafting captivating web experiences using cutting-edge technologies. My goal is to contribute to the creation of dynamic and impactful websites that engage users.
+- Front-End Developer with over 2 years of experience. I hold a degree in Systems Analysis and Development and thrive on crafting captivating web experiences using cutting-edge technologies. My goal is to contribute to the creation of dynamic and impactful websites that engage users.
 
 ### Technical Skills
 - <strong>Frontend Development:</strong> Next.js, React.js, TypeScript, GraphQL (URQL, Apollo), Headless CMS (Hygraph CMS, Prismic), Firebase, Context API, REST APIs
