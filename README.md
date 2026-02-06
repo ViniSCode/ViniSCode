@@ -12,8 +12,6 @@
 - <strong>Frontend Development:</strong> Next.js, React.js, TypeScript, GraphQL (URQL, Apollo), Headless CMS (Hygraph CMS, Prismic), Firebase, Context API, REST APIs
 - <strong>Styling and UI:</strong> Sass, Styled-Components, Chakra UI, Tailwind CSS
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniscode&theme=radical)
-
 ### Education
 - BSc • Computer Science • (Expected 2027)
 - Google IT Support • Google • Coursera • (Expected: july 2024)
